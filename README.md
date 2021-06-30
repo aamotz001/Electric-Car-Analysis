@@ -2,6 +2,12 @@
 
 ## Motivation
 
+Discuss motivation
+
+### Q1
+
+### Q2
+
 ## Background Information
 
 ## Quantifying Value
