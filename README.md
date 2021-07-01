@@ -27,7 +27,7 @@ The following guidelines have been agreed upon:
 
 * In order to maintain communication throughout the working period, we plan to meet 3 times a week: during the assigned group time in Tuesday/Thursday lectures, and once on Saturday (time will be agreed upon the Thursday before). 
 * We anticipate an initial total of approximately 2-3 hours per week in discussion with the entire group present, with more time assigned as required (to be decided upon as a group). As well, group members working together will interface as needed, with communication times set between the relevant members. The entire group need not be alerted to meetings between individuals. 
-* It is understandable if a group member needs to be absent for a particular meeting, however it is expected that they will put forth best efforts to get back up to date and minimize the number of absences. It is preferred if absences are communicated at least 24 hours before hand
+* It is understandable if a group member needs to be absent for a particular meeting, however it is expected that they will put forth best efforts to get back up to date and minimize the number of absences. It is preferred if absences are communicated at least 24 hours before hand.
 
 ## Project Roles
 
