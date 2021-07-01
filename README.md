@@ -3,8 +3,8 @@
 Our group consists of 5 people (Shihab Humayun, Peter Nielson, Matthew DeYoung, Alyssa Allende Motz and Eric Williams). Primary contact will be maintained through Slack and/or Zoom. Additional contact information follows below:
 
 __Shihab__ \
-Email: \
-Cell: 
+Email: shihab_humayun@yahoo.com\
+Cell: (321) 888 - 9978
 
 __Peter__ \
 Email: \
