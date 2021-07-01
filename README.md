@@ -7,8 +7,8 @@ Email: shihab_humayun@yahoo.com\
 Cell: (321) 888 - 9978
 
 __Peter__ \
-Email: \
-Cell:
+Email: petenielsen93@gmail.com\
+Cell: (407) 937-8174
 
 __Matthew__ \
 Email: \
