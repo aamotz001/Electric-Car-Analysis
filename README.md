@@ -36,6 +36,8 @@ We plan to analyze "Value," using an acumulative variable which encompasses the 
 
 #### Supervised Learning
 
+Linear regression
+
 #### Machine Learning
 
 #### Dashboard
