@@ -1,0 +1,46 @@
+﻿Make,Year,Model,Base Price,Dest. Charge,Tax Credit,Effective Price,Drive,Battery (kWh),EPA EV Range,EPA Total Range,0-60 mph (sec)
+Audi,2021,2021 Audi A7 55 TFSI e quattro,"$74,900 ","$1,045 ","$6,712 ","$69,233 ",AWD,14.1,24 mi,440 mi,5.7
+Audi,2021,2021 Audi A8 L 60 TFSI e quattro,"$95,900 ","$1,045 ","$6,712 ","$90,233 ",AWD,14.1,18 mi,420 mi,4.9
+Audi,2021,2021 Audi Q5 55 TFSI e quattro,"$51,900 ","$1,095 ","$6,712 ","$46,283 ",AWD,14.1,19 mi,400 mi,5
+Bentley,2021,2021 Bentley Bentayga Hybrid,,,"$7,500 ",,AWD,17.3,17 mi,390 mi,5.2
+BMW,2021,2021 BMW 330e,"$44,550 ",$995 ,"$5,836 ","$39,709 ",RWD,12,22 mi,320 mi,5.6
+BMW,2021,2021 BMW 330e xDrive,"$46,550 ",$995 ,"$5,836 ","$41,709 ",AWD,12,20 mi,290 mi,5.7
+BMW,2021,2021 BMW 530e,"$57,200 ",$995 ,"$5,836 ","$52,359 ",RWD,12,21 mi,340 mi,5.9
+BMW,2021,2021 BMW 530e xDrive,"$59,500 ",$995 ,"$5,836 ","$54,659 ",AWD,12,18 mi,320 mi,5.9
+BMW,2021,2021 BMW 745e xDrive,"$95,900 ",$995 ,"$5,836 ","$91,059 ",AWD,12,16 mi,290 mi,4.9
+BMW,2021,2021 BMW i3 REx,"$48,300 ",$995 ,"$7,500 ","$41,795 ",RWD,42.2,123 mi,200 mi,8
+BMW,2021,2021 BMW i3s REx,"$51,500 ",$995 ,"$7,500 ","$44,995 ",RWD,42.2,123 mi,200 mi,7.6
+BMW,2021,2021 BMW X3 xDrive30e,"$49,600 ",$995 ,"$5,836 ","$44,759 ",AWD,12,17 mi,340 mi,5.9
+BMW,2021,2021 BMW X5 xDrive45e,"$65,400 ",$995 ,"$7,500 ","$58,895 ",AWD,21.6,30 mi,400 mi,5.3
+Chrysler,2021,2021 Chrysler Pacifica Hybrid,"$40,295 ","$1,495 ","$7,500 ","$34,290 ",FWD,16,32 mi,520 mi,0
+Ferrari,2021,2021 Ferrari SF90 Stradale,,,"$3,501 ",,AWD,7.9,8 mi,330 mi,2.5
+Ford,2021,2021 Ford Escape PHEV,"$32,650 ","$1,245 ","$6,843 ","$27,052 ",FWD,14.4,37 mi,520 mi,0
+Ford,2020,2020 Ford Fusion Energi - Titanium,"$35,000 ","$1,195 ","$4,609 ","$31,586 ",FWD,9,26 mi,610 mi,0
+Honda,2020,2020 Honda Clarity Plug-in Hybrid,"$33,400 ",$955 ,"$7,500 ","$26,855 ",FWD,17,47 mi,340 mi,0
+Hyundai,2021,2021 Hyundai IONIQ Plug-in Hybrid,"$26,700 ","$1,005 ","$4,543 ","$23,162 ",FWD,8.9,29 mi,620 mi,0
+Hyundai,2022,2022 Hyundai Santa Fe PHEV,,,"$6,587 ",,AWD,13.8,30 mi,440 mi,0
+Hyundai,2022,2022 Hyundai Tucson PHEV,,,"$6,587 ",,AWD,13.8,32 mi,0,0
+Jeep,2021,2021 Jeep Wrangler 4xe,"$47,995 ","$1,495 ","$7,500 ","$41,990 ",AWD,17,21 mi,370 mi,6
+Kia,2021,2021 Kia Niro PHEV,"$29,590 ","$1,175 ","$4,543 ","$26,222 ",FWD,8.9,26 mi,560 mi,0
+Land Rover,2021,2021 Land Rover Range Rover P400e,"$97,000 ","$1,350 ","$6,295 ","$92,055 ",AWD,13.1,19 mi,480 mi,6.4
+Land Rover,2021,2021 Land Rover Range Rover Sport P400e,"$83,000 ","$1,350 ","$6,295 ","$78,055 ",AWD,13.1,19 mi,480 mi,6.3
+Lincoln,2021,2021 Lincoln Aviator Grand Touring,"$69,070 ","$1,095 ","$6,534 ","$63,631 ",AWD,13.6,21 mi,460 mi,0
+Lincoln,2021,2021 Lincoln Corsair Grand Touring,"$50,390 ",$995 ,"$6,843 ","$44,542 ",AWD,14.4,28 mi,430 mi,0
+MINI,2022,2022 MINI Cooper S E Countryman ALL4,"$41,500 ",$850 ,"$5,002 ","$37,348 ",AWD,10,17 mi,300 mi,6.7
+Mitsubishi,2021,2021 Mitsubishi Outlander PHEV,"$36,295 ","$1,195 ","$6,587 ","$30,903 ",AWD,13.8,24 mi,320 mi,0
+Polestar,2021,2021 Polestar 1,"$155,000 ",,"$7,500 ","$147,500 ",AWD,34,52 mi,470 mi,4.2
+Porsche,2021,2021 Porsche Cayenne E-Hybrid,"$81,800 ","$1,350 ","$7,500 ","$75,650 ",AWD,17.9,16 mi,430 mi,4.7
+Porsche,2021,2021 Porsche Cayenne E-Hybrid Coupe,"$87,600 ","$1,350 ","$7,500 ","$81,450 ",AWD,17.9,16 mi,430 mi,4.8
+Porsche,2021,2021 Porsche Cayenne Turbo S E-Hybrid,"$163,200 ","$1,350 ","$7,500 ","$157,050 ",AWD,17.9,14 mi,370 mi,3.6
+Porsche,2021,2021 Porsche Cayenne Turbo S E-Hybrid Coupe,"$166,200 ","$1,350 ","$7,500 ","$160,050 ",AWD,17.9,14 mi,370 mi,3.6
+Porsche,2021,2021 Porsche Panamera 4 E-Hybrid,"$103,800 ","$1,350 ","$7,500 ","$97,650 ",AWD,17.9,18 mi,480 mi,4.2
+Porsche,2021,2021 Porsche Panamera 4S E-Hybrid,"$113,300 ","$1,350 ","$7,500 ","$107,150 ",AWD,17.9,18 mi,480 mi,3.5
+Porsche,2021,2021 Porsche Panamera Turbo S E-Hybrid,"$187,700 ","$1,350 ","$7,500 ","$181,550 ",AWD,17.9,17 mi,430 mi,3
+Subaru,2021,2021 Subaru Crosstrek Hybrid,"$35,345 ","$1,050 ","$4,502 ","$31,893 ",AWD,8.8,17 mi,480 mi,0
+Toyota,2021,2021 Toyota Prius Prime,"$28,220 ",$955 ,"$4,502 ","$24,673 ",FWD,8.8,25 mi,640 mi,0
+Toyota,2021,2021 Toyota RAV4 Prime,"$38,250 ","$1,175 ","$7,500 ","$31,925 ",AWD,18.1,42 mi,600 mi,5.7
+Volvo,2021,2021 Volvo S60 T8 Twin Engine,"$47,650 ","$1,045 ","$5,419 ","$43,276 ",AWD,11.6,22 mi,510 mi,4.3
+Volvo,2020,2020 Volvo S90 T8 Twin Engine,"$60,050 ","$1,045 ","$5,419 ","$55,676 ",AWD,11.6,21 mi,490 mi,4.8
+Volvo,2020,2020 Volvo V60 T8 Twin Engine Polestar,"$67,550 ","$1,095 ","$5,419 ","$63,226 ",AWD,11.6,22 mi,510 mi,4.3
+Volvo,2021,2021 Volvo XC60 T8 Twin Engine,"$53,500 ","$1,095 ","$5,419 ","$49,176 ",AWD,11.6,18 mi,520 mi,0
+Volvo,2020,2020 Volvo XC90 T8 Twin Engine,"$63,450 ","$1,095 ","$5,419 ","$59,126 ",AWD,11.6,18 mi,520 mi,0

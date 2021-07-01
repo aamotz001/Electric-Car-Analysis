@@ -1,0 +1,47 @@
+﻿Make,Year,Model,Base Price,Dest. Charge,Tax Credit,Effective Price,Drive,Battery (kWh),EPA Range,0-60 mph (sec),Top Speed
+Audi,2021,2021 Audi e-tron,"$65,900 ","$1,095 ","$7,500 ","$59,495 ",AWD,95,222 mi,5.5,124 mph
+Audi,2021,2021 Audi e-tron Sportback,"$69,100 ","$1,045 ","$7,500 ","$62,645 ",AWD,95,218 mi,5.5,124 mph
+BMW,2021,2021 BMW i3,"$44,450 ",$995 ,"$7,500 ","$37,945 ",RWD,42.2,153 mi,7.2,93 mph
+BMW,2021,2021 BMW i3s,"$47,650 ",$995 ,"$7,500 ","$41,145 ",RWD,42.2,153 mi,6.8,100 mph
+Chevrolet,2022,2022 Chevrolet Bolt EV,"$31,000 ",$995 ,N/A,"$31,995 ",FWD,65,259 mi,6.5,0
+Chevrolet,2022,2022 Chevrolet Bolt EUV,"$33,000 ",$995 ,N/A,"$33,995 ",FWD,65,247 mi,7,0
+Ford,2021,2021 Ford Mustang Mach-E Select SR RWD,"$42,895 ","$1,100 ","$7,500 ","$36,495 ",RWD,75.7,230 mi,5.8,0
+Ford,2021,2021 Ford Mustang Mach-E Select SR AWD,"$45,595 ","$1,100 ","$7,500 ","$39,195 ",AWD,75.7,211 mi,5.2,0
+Ford,2021,2021 Ford Mustang Mach-E Route 1 ER RWD,"$50,400 ","$1,100 ","$7,500 ","$44,000 ",RWD,98.8,305 mi,6.1,0
+Ford,2021,2021 Ford Mustang Mach-E Premium ER RWD,"$52,600 ","$1,100 ","$7,500 ","$46,200 ",RWD,98.8,300 mi,6.1,0
+Ford,2021,2021 Ford Mustang Mach-E Premium ER AWD,"$55,300 ","$1,100 ","$7,500 ","$48,900 ",AWD,98.8,270 mi,4.8,0
+Ford,2021,2021 Ford Mustang Mach-E GT ER AWD,"$59,900 ","$1,100 ","$7,500 ","$53,500 ",AWD,98.8,250 mi,3.8,0
+Ford,2021,2021 Ford Mustang Mach-E GT Perf. ER AWD,"$64,900 ","$1,100 ","$7,500 ","$58,500 ",AWD,98.8,235 mi,3.5,0
+Hyundai,2021,2021 Hyundai IONIQ Electric,"$33,245 ","$1,005 ","$7,500 ","$26,750 ",FWD,38.3,170 mi,10,102 mph
+Hyundai,2021,2021 Hyundai Kona Electric,"$37,390 ","$1,175 ","$7,500 ","$31,065 ",FWD,64,258 mi,7.9,104 mph
+Jaguar,2022,2022 Jaguar I-PACE EV400,"$69,900 ","$1,150 ","$7,500 ","$63,550 ",AWD,90,234 mi,4.5,124 mph
+Kia,2021,2021 Kia Niro EV (e-Niro),"$39,090 ","$1,175 ","$7,500 ","$32,765 ",FWD,64,239 mi,7.5,104 mph
+MINI,2022,2022 MINI Cooper SE,"$29,900 ",$850 ,"$7,500 ","$23,250 ",FWD,32.6,114 mi,6.9,93 mph
+Nissan,2021,2021 Nissan LEAF S (40 kWh),"$31,670 ",$950 ,"$7,500 ","$25,120 ",FWD,40,149 mi,7.4,90 mph
+Nissan,2021,2021 Nissan LEAF e+ S (62 kWh),"$38,270 ",$950 ,"$7,500 ","$31,720 ",FWD,62,226 mi,6.5,0
+Nissan,2021,2021 Nissan LEAF e+ SV/SL (62 kWh),"$40,520 ",$950 ,"$7,500 ","$33,970 ",FWD,62,215 mi,6.5,0
+Polestar,2021,2021 Polestar 2,"$59,900 ","$1,300 ","$7,500 ","$53,700 ",AWD,78,233 mi,4.5,0
+Porsche,2021,2021 Porsche Taycan (79 kWh),"$79,900 ","$1,350 ","$7,500 ","$73,750 ",RWD,79.2,200 mi,5.1,143 mph
+Porsche,2021,2021 Porsche Taycan (93 kWh),"$85,680 ","$1,350 ","$7,500 ","$79,530 ",RWD,93.4,225 mi,5.1,143 mph
+Porsche,2021,2021 Porsche Taycan 4S (79 kWh),"$103,800 ","$1,350 ","$7,500 ","$97,650 ",AWD,79.2,199 mi,3.8,155 mph
+Porsche,2021,2021 Porsche Taycan 4S (93 kWh),"$109,370 ","$1,350 ","$7,500 ","$103,220 ",AWD,93.4,227 mi,3.8,155 mph
+Porsche,2021,2021 Porsche Taycan Turbo (93 kWh),"$150,900 ","$1,350 ","$7,500 ","$144,750 ",AWD,93.4,212 mi,3,161 mph
+Porsche,2021,2021 Porsche Taycan Turbo S (93 kWh),"$185,000 ","$1,350 ","$7,500 ","$178,850 ",AWD,93.4,201 mi,2.6,161 mph
+Porsche,2021,2021 Porsche Taycan 4 Cross Turismo,"$90,900 ","$1,350 ","$7,500 ","$84,750 ",AWD,93.4,0,4.8,137 mph
+Porsche,2021,2021 Porsche Taycan 4S Cross Turismo,"$110,300 ","$1,350 ","$7,500 ","$104,150 ",AWD,93.4,0,3.9,149 mph
+Porsche,2021,2021 Porsche Taycan Turbo Cross Turismo,"$153,500 ","$1,350 ","$7,500 ","$147,350 ",AWD,93.4,0,3.1,155 mph
+Porsche,2021,2021 Porsche Taycan Turbo S Cross Turismo,"$187,600 ","$1,350 ","$7,500 ","$181,450 ",AWD,93.4,0,2.7,155 mph
+Tesla,2021,2021 Tesla Model 3 Standard Range Plus,"$39,990 ","$1,200 ",N/A,"$41,190 ",RWD,60,263 mi,5.3,140 mph
+Tesla,2021,2021 Tesla Model 3 Long Range AWD,"$48,990 ","$1,200 ",N/A,"$50,190 ",AWD,80,353 mi,4.2,145 mph
+Tesla,2021,"2021 Tesla Model 3 Perf. LR AWD 20""","$56,990 ","$1,200 ",N/A,"$58,190 ",AWD,80,315 mi,3.1,162 mph
+Tesla,2021,"2021 Tesla Model S Long Range (AWD) 19""","$79,990 ","$1,200 ",N/A,"$81,190 ",AWD,100,405 mi,3.1,155 mph
+Tesla,2021,"2021 Tesla Model S Plaid 19""","$129,990 ","$1,200 ",N/A,"$131,190 ",AWD,100,390 mi,1.99,200 mph
+Tesla,2021,"2021 Tesla Model X Long Range (AWD) 20""","$89,990 ","$1,200 ",N/A,"$91,190 ",AWD,100,360 mi,3.8,155 mph
+Tesla,2021,"2021 Tesla Model X Plaid 20""","$119,990 ","$1,200 ",N/A,"$121,190 ",AWD,100,340 mi,2.5,163 mph
+Tesla,2021,"2021 Tesla Model Y Long Range AWD 19""","$52,490 ","$1,200 ",N/A,"$53,690 ",AWD,80,326 mi,4.8,135 mph
+Tesla,2021,"2021 Tesla Model Y Perf. LR AWD 21""","$60,990 ","$1,200 ",N/A,"$62,190 ",AWD,80,303 mi,3.5,155 mph
+Volvo,2021,2021 Volvo XC40 Recharge,"$53,990 ","$1,095 ","$7,500 ","$47,585 ",AWD,78,208 mi,4.7,0
+Volkswagon,2021,2021 Volkswagen ID.4 Pro,"$39,995 ","$1,195 ","$7,500 ","$33,690 ",RWD,82,260 mi,0,0
+Volkswagon,2021,2021 Volkswagen ID.4 Pro S,"$44,495 ","$1,195 ","$7,500 ","$38,190 ",RWD,82,250 mi,0,0
+Volkswagon,2021,2021 Volkswagen ID.4 AWD Pro,"$43,675 ","$1,195 ","$7,500 ","$37,370 ",AWD,82,249 mi,5.7,0
+Volkswagon,2021,2021 Volkswagen ID.4 AWD Pro S,"$48,175 ","$1,195 ","$7,500 ","$41,870 ",AWD,82,240 mi,0,0
