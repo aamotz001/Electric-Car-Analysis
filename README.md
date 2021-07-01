@@ -7,14 +7,16 @@ The goal of our project is to analyze the value of electric vehicles over the pa
 
 ## Background Information
 
-## Quantifying Value
-
-## Data Sets & Sources
-
 ## Approach
 
-### Supervised Learning
+### Quantifying Value
 
-### Machine Learning
+### Data Sets & Sources
 
-### Dashboard
+### Analysis
+
+#### Supervised Learning
+
+#### Machine Learning
+
+#### Dashboard
