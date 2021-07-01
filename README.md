@@ -11,8 +11,8 @@ Email: petenielsen93@gmail.com\
 Cell: (407) 937-8174
 
 __Matthew__ \
-Email: \
-Cell:
+Email: deyoungmatthewd@gmail.com\
+Cell: (407) 405-0651
 
 __Alyssa__ \
 Email: aamotz001@gmail.com \
